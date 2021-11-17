@@ -1,4 +1,4 @@
-**# MVP**
+# **MVP**
 
 **_-The goal of this project is to analyze the data to explore the features that most affect the incidence of cardiovascular disease._**
 
