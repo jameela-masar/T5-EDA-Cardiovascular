@@ -1,17 +1,11 @@
 # MVP
-The goal of this project is to analyze the data to explore the features that most affect the incidence of cardiovascular disease.
+_-The goal of this project is to analyze the data to explore the features that most affect the incidence of cardiovascular disease._
  
-To find out which features are most related to Cardiovascular Disease I used Heatmap for correlation and arranged the features in descending order based on most related.
+_-To find out which features are most related to cardiovascular disease, I used Heatmap for correlation and arranged the features in descending order based on most related._
 
  ![](https://github.com/jameela-masar/EDA-Cardiovascular-/blob/main/Heatmap_c.png)
 
-Age has an effect, especially with increasing age for females and males, the incidence of cardiovascular diseases increases. This was shown by using violin, where the number one represents female and the number two is male.
- 
-![](https://github.com/jameela-masar/EDA-Cardiovascular-/blob/main/age_c.png)
 
-As for the two most important factors related to Cardiovascular Disease, they are Systolic blood pressure and Diastolic blood pressure, where Systolic blood pressure represents the greatest effect on the occurrence of the disease, when it reaches 140 and above, the incidence of disease increases. As for Diastolic blood pressure when it reaches approximately 90, so the incidence of the disease is high.
+_-Through the analysis, it was found that the two most important factors related to cardiovascular disease are systolic blood pressure and diastolic blood pressure. Whereas systolic blood pressure represents the greatest effect on the occurrence of the disease, when it reaches 140 and above, the incidence of disease increases. As for diastolic blood pressure, when it reaches approximately 90, the incidence of the disease is high._
 
 ![](https://github.com/jameela-masar/EDA-Cardiovascular-/blob/main/ap_hi_c.png ) ![](https://github.com/jameela-masar/EDA-Cardiovascular-/blob/main/ap_lo_c.png)
-
-
-
